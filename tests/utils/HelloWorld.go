@@ -1,14 +1,6 @@
 package utils
 
-import (
-                "fmt"
-                "strings"
-                "testing"
-                "os"
-                "runtime"
-)
-
-func PrintHello() string{
+func PrintHello(){
   println("Hello World")
 }
   
